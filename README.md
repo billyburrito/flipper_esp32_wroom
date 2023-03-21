@@ -2,10 +2,13 @@
 STLs for the ESP32 S2 Wroom board to live atop a flipper zero
 
 Buy this board:
+
 https://www.amazon.com/dp/B07WCG1PLV
+
 (no affiliate links here, go do something nice for someone)
 
 Use this repo to easily flash:
+
 https://github.com/SkeletonMan03/FZEasyMarauderFlash
 
 I printed the bottom on my Prusa Mini, .1 height 15% infill
