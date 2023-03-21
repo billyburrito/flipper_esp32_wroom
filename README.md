@@ -16,8 +16,11 @@ Pins!
 Board -> F0
 
 3v3 -> 3v3 
+
 GND -> GND
+
 RX0 -> TX
+
 TX0 -> RX
 
 Look at the breadboard pic if you need more info, pack the wires in the best you can into this case, you get 7mm to play with depending on the tolerances of your printer
