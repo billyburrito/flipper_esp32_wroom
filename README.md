@@ -1,11 +1,9 @@
 # flipper_esp32_wroom
 STLs for the ESP32 S2 Wroom board to live atop a flipper zero
 
-Buy this board:
+Buy this board or something similar:
 
 https://www.amazon.com/dp/B07WCG1PLV
-
-(no affiliate links here, go do something nice for someone)
 
 Use this repo to easily flash:
 
