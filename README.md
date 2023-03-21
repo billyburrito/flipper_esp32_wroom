@@ -13,6 +13,7 @@ I printed the bottom on my Prusa Mini, .1 height 15% infill
 I printed the top with .2 quality, but print it standing up.  
 
 Pins!
+
 Board -> F0
 
 3v3 -> 3v3 
